@@ -17,4 +17,4 @@ async def on_ready():
 # Command
 @client.command()
 async def helloworld(ctx):
-    await ctx.send('Hello World!')r
+    await ctx.send('Hello World!')
